@@ -64,6 +64,6 @@ And activate the interrupt only for pin 14 & 15 (PJ1 & PJ0) with in the register
 
 ---
 
-Practice on the spotmicro robot: [https://github.com/Robot-Dog-2021/POC_2xHC-SR04_by_interrupt](https://github.com/Robot-Dog-2021/POC_2xHC-SR04_by_interrupt)
+Practice on the spotmicro robot: [https://github.com/Nao974/SpotMicro_2xHC-SR04_by_interrupt](https://github.com/Nao974/SpotMicro_2xHC-SR04_by_interrupt)
 
 [![](assets/poc_youtube.jpg)](https://youtu.be/Ve35dOHQbLI)
